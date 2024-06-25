@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @projects-root
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Quality Assurance, Data Science and Computer Vision
+- 🌱 I’m currently learning Playwright and Cypress
 - 📫 How to reach me projects.root@gmail.com
 
 <!---
